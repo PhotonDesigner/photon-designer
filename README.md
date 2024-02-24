@@ -18,7 +18,9 @@ I'll then:
 - diagnose the bug
 - update you when it's fixed
   
-Let's chat like friends. Be as direct and honest as you can. If you're sharing your thoughts, it means we're on the same team aiming to make Photon Designer as useful as possible. 
+Let's chat like friends. Be as direct and honest as you can. 
+
+If you're sharing your thoughts, it means we're on the same team aiming to make Photon Designer as useful as possible. 
 
 ## Feedback and current state
 
