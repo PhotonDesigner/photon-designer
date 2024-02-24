@@ -1,6 +1,6 @@
 # Photon Designer features and bugs
 
-Welcome to the repo for <a href="https://photondesigner.com?ref=github-repo-welcome">Photon Designer</a> app💡 
+Welcome to the repo for the <a href="https://photondesigner.com?ref=github-repo-welcome">Photon Designer</a> app💡 
 
 Hi from me! <a href="https://youtube.com/@tomdekan" target="_blank">Tom</a> :)
 
@@ -27,7 +27,7 @@ If you're sharing your thoughts, it means we're on the same team aiming to make 
 Photon Designer is very early.
 
 - The interface is clunky
-- There are lots of outstanding Django features to add
+- There are many Django features to add
 - There are bugs to fix.
 
 But, I'm working quickly to progress Photon Designer to its potential. We're just at the start 🚀
