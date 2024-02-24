@@ -8,12 +8,12 @@ This repo shows the feature requests and bug lists for Photon Designer (currentl
 
 ## How to use this repo
 
-### 1. 🎨 Post any feature requests. 
+### 1. 🎨 Post any feature requests as issues 
 I'll then:
 - let you know my thoughts
 - update you on the feature's position in Photon Designer's roadmap.
 
-### 2. 🐛 Post any bugs as issues.
+### 2. 🐛 Post any bugs as issues
 I'll then:
 - diagnose the bug
 - update you when it's fixed
