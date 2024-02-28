@@ -1,10 +1,6 @@
 # Photon Designer features and bugs
 
-Welcome to the repo for the <a href="https://photondesigner.com?ref=github-repo-welcome">Photon Designer</a> app💡 
-
-Hi from me! <a href="https://youtube.com/@tomdekan" target="_blank">Tom</a> :)
-
-This repo shows the feature requests and bug lists for Photon Designer (currently in alpha testing).
+Welcome to the repo for the <a href="https://photondesigner.com?ref=github-repo-welcome">Photon Designer</a> app💡 Hi from me! <a href="https://youtube.com/@tomdekan" target="_blank">Tom</a> :) This repo shows the feature requests and bug lists for Photon Designer (currently in alpha testing).
 
 ## How to use this repo
 
